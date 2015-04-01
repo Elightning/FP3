@@ -2,11 +2,11 @@
 DUE April 2, 2015 Thursday (2015-04-02)
 
 ### Team Members
-  Stuart Tomkins - stuarttomkins 
+  Stuart Tomkins - [stuarttomkins] (https://github.com/stuarttomkins/)
   
-  Kevin Wacome - ktwaco
+  Kevin Wacome - [ktwaco] (https://github.com/ktwaco/)
   
-  Eamon Lightning - Elightning
+  Eamon Lightning - [Elightning] (https://github.com/Elightning/)
   
 
 ### A Team Name
