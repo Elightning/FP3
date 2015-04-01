@@ -1,25 +1,32 @@
 # FP3: Team Declaration
 DUE April 2, 2015 Thursday (2015-04-02)
 
-For full description, see the project schedule [on Piazza.][piazza]
-
-<i>Edit this file to make your report!</i>
-
 ### Team Members
-* github names and real names.
-* Teams of less than two members, or more than three members must get written permission from Mark in advance.
+  Stuart Tomkins - stuarttomkins 
+  
+  Kevin Wacome - ktwaco
+  
+  Eamon Lightning - Elightning
+  
 
 ### A Team Name
-for the purpose of creating a github group
+  Synth Loaf 
+  (we took this from a random name generator with the word "synth")
 
 ### Project Title
-10 words or fewer
+  The Sherman Keyboard
 
 ### Project Concept
-can be basic, fluid. Details will be in the next assignment.
+  A virtual synthesizer that allows a user to play musical notes via a graphical user interface. Will include
+  different sound effects and features.
 
 ### Libraries You Plan to Use 
-as a group
+  racket/gui
+  
+  rsound
+  
+  portaudio
+  
 
 ### How to Do and Submit this assignment
 
